@@ -22,6 +22,9 @@
     "examples/query/react/*",
     "examples/action-listener/*"
   ],
+  "peerDependencies": {
+    "react": "^15.0.0-0 || ^16.0.0-0 || ^17.0.0-0 || ^18.0.0-0"
+  },
   "devDependencies": {
     "eslint": "^7.25.0",
     "eslint-config-prettier": "^8.3.0",
